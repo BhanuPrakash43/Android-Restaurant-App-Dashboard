@@ -23,7 +23,7 @@
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Android-Restaurant-App-Dashboard.git
+   git clone https://github.com/BhanuPrakash43/Android-Restaurant-App-Dashboard.git
 
 
 2. Open the project in Android Studio.
